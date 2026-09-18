@@ -83,4 +83,3 @@ Focus: Crafting / farming / profiles
 ## Disclaimer
 
 Independent community project theme; not affiliated with the game developer, publisher, Steam, Valve, WeMod, FLiNG or other trainer providers.
-                                                                                                    
